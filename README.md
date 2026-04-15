@@ -2,6 +2,8 @@
 
 **vexas\_cnn\_ml** is a deep learning project focused on the automated identification of imaging anomalies associated with VEXAS syndrome. The repository implements a Convolutional Neural Network (CNN) framework using PyTorch to analyze and classify medical imaging data.
 
+![Architecture](pipeline.png)
+
 -----
 
 ## Publication
