@@ -1,6 +1,6 @@
-# vexas\_cnn\_ml
+## Convolutional Neural Network Based Feature Extraction and Hybrid Machine Learning for VEXAS Syndrome Diagnosis from Imaging Anomalies in Peripheral Blood Smears
 
-**vexas\_cnn\_ml** is a deep learning project focused on the automated identification of imaging anomalies associated with VEXAS syndrome. The repository implements a Convolutional Neural Network (CNN) framework using PyTorch to analyze and classify medical imaging data.
+**CNN for VEXAS** is a deep learning project focused on the automated identification of imaging anomalies associated with VEXAS syndrome. The repository implements a Convolutional Neural Network (CNN) framework using PyTorch to analyze and classify medical imaging data.
 
 ![Architecture](pipeline.jpg)
 
